@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [PCB of SMT32.PcbDoc]
+   Generated File[Bill of Materials-PCB of SMT32.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:54:19 PM On 11/25/2024

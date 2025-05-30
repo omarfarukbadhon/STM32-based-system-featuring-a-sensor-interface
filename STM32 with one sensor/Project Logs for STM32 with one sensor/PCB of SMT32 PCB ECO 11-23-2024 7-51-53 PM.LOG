@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RS485_TX Pin=U1-19
+Added Pin To Net: NetName=RS485_RX Pin=U1-21
+Added Pin To Net: NetName=SDA Pin=U1-31
+Added Pin To Net: NetName=SCL Pin=U1-32
+Add Net: Net with name "+3V3" already exists

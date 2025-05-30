@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+F:\Fiver\mroial\STM32 with one sensor\Manufactuer file\Pick Place\Pick Place for PCB of SMT32.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/11/24
+Time:       13:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                                                               
+R11        10k                TopLayer Res_10K          2365.000      755.000       270      "RES SMD 10K OHM 1% 1/4W 0603"                                                                            
+R10        10k                TopLayer Res_10K          1250.000      490.000       90       "RES SMD 10K OHM 1% 1/4W 0603"                                                                            
+J3         20021121-00010C4LF TopLayer JTAG             1325.000      255.000       90       "Headers & Wire Housings 1.27x1.27mm BTB, Hdr Unshrd, SMT, 10 Pos"                                        
+C10        10pF               TopLayer Cap_10pF         1892.440      280.000       0        "25V 10pF NP0 ±5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C9         10pF               TopLayer Cap_10pF         2270.000      520.000       90       "25V 10pF NP0 ±5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+J2         "Power Connector"  TopLayer Power_Connector  2672.087      375.000       90       "Picoblade Connector, 2 Circuit Single Row, Right Angle Surface Mount SMT PCB"                            
+X1         32Mhz              TopLayer Crystal_32MHz    2030.000      465.000       180      ""                                                                                                        
+U5         733-363            TopLayer RS485_connector  410.000       340.002       270      "6A 3 Straight Needle -60?~+100? 1 2.5mm Gray Plugin,P=2.5mm  Pluggable System Terminal Block ROHS"       
+U4         74HC14D,653        TopLayer 74HC14D          1014.999      635.000       270      ""                                                                                                        
+U3         ST3485EBDR         TopLayer ST3485EBDR       995.000       280.000       90       ""                                                                                                        
+U2         TPS62177DQCR       TopLayer TPS62177DQCR     2455.000      375.000       90       ""                                                                                                        
+U1         STM32G030K8T6      TopLayer STM32G030K8T6    1640.000      690.000       90       ""                                                                                                        
+SW1        TSA020B3418A02     TopLayer Push_Button      2190.000      770.000       90       ""                                                                                                        
+R9         470O               TopLayer Res_470R         779.655       760.000       0        "Res 470R"                                                                                                
+R8         4.7K               TopLayer Res_4.7K         800.000       250.000       270      "Res 4.7K"                                                                                                
+R7         56K                TopLayer Rs_56K           1285.000      815.000       180      "Res 56K"                                                                                                 
+R6         120R               TopLayer Res_120R         730.000       250.000       270      "Res 120R"                                                                                                
+R5         4.7K               TopLayer Res_4.7K         660.000       250.000       270      "Res 4.7K"                                                                                                
+R4         4.7K               TopLayer Res_4.7K         1075.000      115.000       180      "Res 4.7K"                                                                                                
+R3         4.7K               TopLayer Res_4.7K         1100.000      865.000       0        "Res 4.7K"                                                                                                
+R2         100K               TopLayer Res_100K         2377.960      480.000       180      "Res 100K 50V"                                                                                            
+R1         470O               TopLayer Res_470R         779.655       670.000       0        "Res 470R"                                                                                                
+LED2       VLMS1300-GS08      TopLayer LED              630.000       670.000       0        Led                                                                                                       
+LED1       VLMS1300-GS08      TopLayer LED              630.000       760.000       0        Led                                                                                                       
+L1         LPS4018-103MRC     TopLayer Inductor         2295.000      280.000       90       "Inductor 10uH"                                                                                           
+J1         CLP-105-02-L-D     TopLayer Sesnor_Connector 1645.000      325.000       0        "1.27mm 1.27mm Double Row Tin 3.3A -55?~+125? 10P Standing paste 2.29mm SMD,P=1.27mm Female Headers ROHS" 
+D4         SMAJ58CA           TopLayer TVS_diode        635.000       465.000       270      ""                                                                                                        
+D3         1N4148W            TopLayer 1N4148W          1290.000      735.000       0        ""                                                                                                        
+D2         SMAJ58CA           TopLayer TVS_diode        550.000       190.000       270      ""                                                                                                        
+D1         SMAJ58CA           TopLayer TVS_diode        765.000       465.000       90       ""                                                                                                        
+C8         100nF              TopLayer Cap_100nF_16V    1972.445      825.000       180      "16V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                               
+C7         100pF              TopLayer Cap_100pF        1285.000      890.000       0        "Cap 100pF 50V"                                                                                           
+C6         4.7uF              TopLayer Cap_4.7uF        2025.000      716.835       90       "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                               
+C5         1uF                TopLayer Cap_1uF          690.000       145.000       180      "Cap 1uF 16V"                                                                                             
+C4         1uF                TopLayer Cap_1uF          2390.060      562.500       180      "Cap 1uF 16V"                                                                                             
+C3         22uF               TopLayer Cap_22uF         2410.000      645.000       180      "Cap 22uF 16V"                                                                                            
+C2         2.2uF              TopLayer Cap_2.2uF        2506.460      230.000       0        "Cap 2.2uF 35V"                                                                                           
+C1         100nF              TopLayer Cap_100nF_16V    1930.000      713.000       270      "16V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                               
